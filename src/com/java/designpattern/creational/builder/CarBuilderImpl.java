@@ -27,7 +27,7 @@
  * Description:        
 
  *----------------------------------------------------------------------------------------------------*/
-package com.java.designpattern.builder;
+package com.java.designpattern.creational.builder;
 
 
 public class CarBuilderImpl implements CarBuilder
